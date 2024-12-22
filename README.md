@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on **open-source projects**.
 - 🤔 I’m looking for help with **advanced AI algorithms** and **deep learning**.
 - 💬 Ask me about **web development**, **data science**, or **AI**.
-- 📫 How to reach me: dipgitcom@gmail.com
+- 📫 How to reach me: diprajdhar08@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy playing musical instruments and love experimenting with photography!
 
